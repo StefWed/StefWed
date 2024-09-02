@@ -27,7 +27,7 @@ For the moment, my account is mainly under construction. For the time being, hav
 
 - 📚  These days, I am reading "Economics: The user's guide", as well as some chapters of "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" and "An Introduction to Statistical Learning".
 
-- 📫  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stefaniewedel/)
+- 📫  How to reach me: write me a message on LinkedIn!
 
 - ⚡  Fun fact: I love running half marathons because it's a great way to explore lots of different cities or pretty landscapes.
 
