@@ -6,24 +6,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-
-  <h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
-
+## About me
 
 I am an economist passionate about data, sharing some of my data analysis/ Data Science projects. 
 I recently attended an intensive course at <a href='https://academy.constructor.org/de'>Constructor Academy<a> through which I gained profound knowledge in key Data Science concepts and technologies (Machine/Deep Learning, NLP, Visualization, SQL).
 
 
-For the moment, my account is mainly under construction. For the time being, have a look at my first personal project on how I leveraged web scraping for my second hobby - patchwork and quilting.
-
-
-
-- 🔭  I’m currently working on revising finished projects for GitHub. 
+- 🔭  I’m currently working on revising finished projects for GitHub. For the time being, have a look at my first side project on how I leveraged web scraping for my second hobby - patchwork and quilting - 
+<a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a>.
 
 - 📚  These days, I am reading "Economics: The user's guide", as well as some chapters of "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" and "An Introduction to Statistical Learning".
 
