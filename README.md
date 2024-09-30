@@ -15,7 +15,7 @@ I recently attended an intensive course at <a href='https://academy.constructor.
 
 
 - 🔭  I’m currently working on revising finished projects for GitHub. For the time being, have a look at my first side project on how I leveraged web scraping for my second hobby - patchwork and quilting - 
-<a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a>.
+<a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a>. Also, my project on how to scrape data from social platforms and investigating them to get insights on public opinion, market trends and more is growing - <a href='https://github.com/StefWed/investigate-public-opinion-on-retail'>Investigate Public Opinion about Retail Trade on Mastodon<a>.
 
 - 📚  These days, I am reading "Economics: The user's guide", as well as some chapters of "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" and "An Introduction to Statistical Learning".
 
@@ -37,6 +37,9 @@ I recently attended an intensive course at <a href='https://academy.constructor.
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
 </div>
 
+## Scraping Social Platforms and Analysing Scraped Data
+
+<a href='https://github.com/StefWed/investigate-public-opinion-on-retail'>Investigate Public Opinion about Retail Trade on Mastodon<a>
 
 ## Creative Projects I Enjoy
 
