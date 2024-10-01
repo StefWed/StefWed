@@ -37,7 +37,7 @@ I recently attended an intensive course at <a href='https://academy.constructor.
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
 </div>
 
-## Scraping Social Platforms and Analysing Scraped Data
+## Scraping Social Platforms and NLP techniques
 
 <a href='https://github.com/StefWed/investigate-public-opinion-on-retail'>Investigate Public Opinion about Retail Trade on Mastodon<a>
 
