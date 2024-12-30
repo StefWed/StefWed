@@ -41,9 +41,9 @@ I recently attended an intensive course at <a href='https://academy.constructor.
 
 <a href='https://github.com/StefWed/investigate-public-opinion-on-retail'>Investigate Public Opinion about Retail Trade on Mastodon<a>
 
-## Data Visualisation
+## Data Visualization
 
-<a href='https://github.com/StefWed/data-visualization-page-streamlit'>Building Data Visualisation Pages Using Streamlit<a> 
+<a href='https://github.com/StefWed/data-visualization-page-streamlit'>Building Data Visualization Pages Using Streamlit<a> 
 
 ## Creative Projects I Enjoy
 
