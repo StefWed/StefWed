@@ -10,19 +10,13 @@
 
 ## About me
 
-I am an economist passionate about data, sharing some of my data analysis/ Data Science projects. 
-I recently attended an intensive course at <a href='https://academy.constructor.org/de'>Constructor Academy<a> through which I gained profound knowledge in key Data Science concepts and technologies (Machine/Deep Learning, NLP, Visualization, SQL).
+I am an economist passionate about data, sharing some of my data analysis/ Data Science and GenAI projects from diverse classes, workshops and intensive courses. These projects will cover key concepts and technologies from Machine/Deep Learning, SQL, Data Visualization, and NLP including integrating LLMs into the workflow.
 
 
-- 🔭  I’m currently working on revising finished projects for GitHub. For the time being, have a look at my first side project on how I leveraged web scraping for my second hobby - patchwork and quilting - 
-<a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a>. Also, my project on how to scrape data from social platforms and investigating them to get insights on public opinion, market trends and more is growing - <a href='https://github.com/StefWed/investigate-public-opinion-on-retail'>Investigate Public Opinion about Retail Trade on Mastodon<a>.
-
-- 📚  These days, I am reading "Economics: The user's guide", as well as some chapters of "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" and "An Introduction to Statistical Learning".
+- 🔭  I also build personal projects - have a look at my first side project on how I leveraged web scraping for my second hobby - patchwork and quilting - 
+<a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a>. And there is as well <a href='https://github.com/StefWed/reading-quest'>ReadingQuest<a> - an intelligent book-matching app that combines structured filters and GPT-powered reasoning to match books to diverse reading challenge prompts.
 
 - 📫  How to reach me: write me a message on LinkedIn!
-
-- ⚡  Fun fact: I love running half marathons because it's a great way to explore lots of different cities or pretty landscapes.
-
 
 ## Languages and Tools
 <div>
