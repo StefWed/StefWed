@@ -39,6 +39,10 @@ I am an economist passionate about data, sharing some of my data analysis/ Data 
 
 <a href='https://github.com/StefWed/data-visualization-page-streamlit'>Building Data Visualization Pages Using Streamlit<a> 
 
+<a href='https://github.com/StefWed/plotly_figure_friday' >Using Plotly for Datavisualization - my solutions for Plotly's Figure Friday<a>
+
 ## Creative Projects I Enjoy
 
 <a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a> 
+
+<a href='https://github.com/StefWed/reading-quest'>ReadingQuest<a>
