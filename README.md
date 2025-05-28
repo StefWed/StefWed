@@ -45,4 +45,4 @@ I am an economist passionate about data, sharing some of my data analysis/ Data 
 
 <a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a> 
 
-<a href='https://github.com/StefWed/reading-quest'>ReadingQuest<a>
+<a href='https://github.com/StefWed/reading-quest'>ReadingQuest: A personal reading challenge app using Python tools and LLMs for smart book matching<a>
