@@ -14,7 +14,7 @@ I am an economist passionate about data, sharing some of my data analysis/ Data 
 
 
 - 🔭  I also build personal projects - have a look at my first side project on how I leveraged web scraping for my second hobby - patchwork and quilting - 
-<a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a>. And there is as well <a href='https://github.com/StefWed/reading-quest'>ReadingQuest<a> - an intelligent book-matching app that combines structured filters and GPT-powered reasoning to match books to diverse reading challenge prompts.
+<a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a>. And there is as well <a href='https://github.com/StefWed/narra-lune'>NarraLune<a> - an intelligent book-matching app that combines structured filters and GPT-powered reasoning to match books to diverse reading challenge prompts.
 
 - 📫  How to reach me: write me a message on LinkedIn!
 
@@ -45,4 +45,4 @@ I am an economist passionate about data, sharing some of my data analysis/ Data 
 
 <a href='https://github.com/StefWed/quilted_web_scraper'>Using Web Scraping for Your Hobby<a> 
 
-<a href='https://github.com/StefWed/reading-quest'>ReadingQuest: A personal reading challenge app using Python tools and LLMs for smart book matching<a>
+<a href='https://github.com/StefWed/narra-lune'>NarraLune: A personal reading challenge app using Python tools and LLMs for smart book matching<a>
